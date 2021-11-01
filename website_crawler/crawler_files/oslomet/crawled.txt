@@ -1,0 +1,17 @@
+http://ansatt.oslomet.no/canvas
+https://ansatt.oslomet.no/brukerbytte
+https://ansatt.oslomet.no/campusprogrammet
+https://ansatt.oslomet.no/combo?browserId=other&amp;minifierType=&amp;themeId=oslomettheme_WAR_oslomettheme&amp;languageId=nb_NO&amp;b=7210&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_oembedmenu2:%2Fcss%2Fmain.css&amp;no_oslomet_liferay_portlet_notificationclient_portlet_NotificationClientPortlet_INSTANCE_embeddedNotifications2:%2Fmain.css&amp;t=1608053064000
+https://ansatt.oslomet.no/emneansvar-planlegge
+https://ansatt.oslomet.no/ergonomi
+https://ansatt.oslomet.no/hjelp-a-a
+https://ansatt.oslomet.no/hjelp-a-a#t
+https://ansatt.oslomet.no/internasjonalisering
+https://ansatt.oslomet.no/office-365
+https://ansatt.oslomet.no/oslomet-karriere
+https://www.oslomet.no
+https://www.oslomet.no/
+https://www.oslomet.no/forskning/forskningsnyheter/norske-foreldre-aapne-for-skolemat-og-skoleuniform
+https://www.oslomet.no/forskning/forskningsnyheter/ta-barna-med-pa-matlagingen
+https://www.oslomet.no/om/tilgjengelegheitserklering
+https://www.oslomet.no/studier/studenthistorier
